@@ -1,2 +1,2 @@
-# wound_healing_optimal_control
+# Wound healing Optimal Control
 This repo contains the optimal control numerics 
